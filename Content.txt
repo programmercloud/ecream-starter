@@ -1,0 +1,52 @@
+ /Hero Heading h1\
+
+Real ice cream for real ice cream lovers
+
+
+ /Hero Sub Heading h2\
+
+Sweet ice cream for pleasure seekers.
+
+
+/ Section 2 Slogan h2\
+
+ We Pride Ourselves On Exceptional Flavors.
+
+
+/ Section 2 Definition p\
+
+The nearly -200 °C (-328 °F) liquid freezes the ingredients—sweet cream, flavoring, 
+and handpicked mix-ins—almost instantaneously, creating tiny ice crystals and a smooth texture.
+
+
+
+/Section 3 Title h3\
+
+Stress out? Try eating our ice cream.
+
+
+/ Section 3 Definition p/
+
+
+The nearly -200 °C (-328 °F) liquid freezes the ingredients—sweet cream, flavoring, and handpicked mix-ins—almost instantaneously, 
+creating tiny ice crystals and a smooth texture.
+
+
+/Section 4 Title h3\
+
+Your ice cream store around the corner.
+
+
+/ Section 3 Definition p/
+
+
+We stands strong to satisfy customers, consumers and other stakeholders with high quality ice creams and superior services.
+
+
+/Promo Title h2/
+
+Flat 50% OFF, Hurry up before the stock ends
+
+/ Promo Description p/
+
+The nearly -200 °C (-328 °F) liquid freezes the ingredients—sweet cream, flavoring, and handpicked
